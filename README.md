@@ -15,3 +15,18 @@ Dataset citation
 	author={Rohit Sharma},
 	year={2024}
 
+
+Let's start by loading the dataset and inspecting its contents. Then we'll preprocess the data, split it into training and testing sets, and fit a logistic regression model for loan approval prediction.
+
+Step-by-Step Process
+Load the dataset: Load the dataset to understand its structure and contents.
+Inspect the data: Look at the first few rows and summary statistics.
+Preprocess the data: Handle missing values, encode categorical variables, and scale the features if necessary.
+Split the data: Divide the data into training and testing sets.
+Train the model: Fit a logistic regression model.
+Evaluate the model: Assess the model's performance using appropriate metrics.
+
+The dataset consists of 252,000 entries with 12 columns. The columns include both numerical and categorical data. Here is a brief overview:
+
+Numerical columns: Income, Age, Experience, CURRENT_JOB_YRS, CURRENT_HOUSE_YRS, Risk_Flag
+Categorical columns: Married/Single, House_Ownership, Car_Ownership, Profession, CITY, STATE
