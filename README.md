@@ -15,3 +15,6 @@ Dataset citation
 	author={Rohit Sharma},
 	year={2024}
 
+google slides presentation link:  https://docs.google.com/presentation/d/1JhFLjekgvGiYlJfUr9gApWkLxA2UVvYeTIMuVFAt3LA/edit#slide=id.g2e36d07f5a6_0_5
+
+Michael's ML model had the highest accuracy and lowest loss.  It is included in the notebooks folder.  It is titled Loan_approval4.ipynb.  Also included is a Model_Performance_Results Excel file.
